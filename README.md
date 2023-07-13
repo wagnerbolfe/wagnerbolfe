@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wagner Bolfe</h1>
 <h3 align="center">A passionate software developer from Brazil!</h3>
 
-- 📫 How to reach me **shaper@live.com**
-
-<p align="left">
+<p align="center">
+  - 📫 How to reach me **shaper@live.com**
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
