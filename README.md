@@ -20,6 +20,8 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="/images/vs.svg" alt="vs" width="40" height="40"/> </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="/images/vsc.svg" alt="vsc" width="40" height="40"/> </a> 
   </p>
 
 
