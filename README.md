@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Brazil!</h3>
 
 <p align="center">
-  - 📫 How to reach me <h3 align="center">**shaper@live.com**</h3>
+  - 📫 How to reach me <h3>**shaper@live.com**</h3>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
