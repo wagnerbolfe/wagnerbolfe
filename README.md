@@ -9,7 +9,6 @@
 <p align="center"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="/images/vs.svg" alt="vs" width="40" height="40"/> </a> 
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="/images/vsc.svg" alt="vsc" width="40" height="40"/> </a> 
