@@ -7,9 +7,9 @@
 
 <h3 align="center">Certifications:</h3>
 <p align="center"> 
-  <a href="https://learn.microsoft.com/pt-br/users/wagnerbolfe/credentials/cd1154630b347d35" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="dotnet" width="80"height="80"/></a>
-  <a href="https://learn.microsoft.com/en-us/users/wagnerbolfe/credentials/881d0590cef12838" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="dotnet" width="80"height="80"/></a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/79808213424f4ff880254e79e9ea4846" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="dotnet" width="80"height="80"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/wagnerbolfe/credentials/cd1154630b347d35" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="dotnet" width="120"height="120"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/wagnerbolfe/credentials/881d0590cef12838" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="dotnet" width="120"height="120"/></a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/79808213424f4ff880254e79e9ea4846" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="dotnet" width="120"height="120"/></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
