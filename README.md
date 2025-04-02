@@ -24,8 +24,6 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
+</br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wagnerbolfe&theme=radical&show_icons=true&locale=en&layout=compact" alt="wagnerbolfe" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wagnerbolfe&stroke=2ea043&background=171717&ring=3382ed&fire=ff6347&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></p>
 
