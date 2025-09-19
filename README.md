@@ -11,10 +11,10 @@
   <a href="https://learn.microsoft.com/en-us/users/wagnerbolfe/credentials/881d0590cef12838" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="dotnet" width="100"height="100"/></a>
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/79808213424f4ff880254e79e9ea4846" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="dotnet" width="100"height="100"/></a>
   <p align="center">
-    <h6 style="font-size: small" align="center">Microsoft Certified: Azure AI Engineer Associate</h6>
-    <h6 align="center">Microsoft Certified: DevOps Engineer Expert</h6>
-    <h6 align="center">Microsoft Certified: Azure Developer Associate</h6>
-    <h6 align="center">AWS Certified Cloud Practitioner</h6>
+    <p style="font-size: x-small" align="center">Microsoft Certified: Azure AI Engineer Associate</p>
+    <p align="center">Microsoft Certified: DevOps Engineer Expert</p>
+    <p align="center">Microsoft Certified: Azure Developer Associate</p>
+    <p align="center">AWS Certified Cloud Practitioner</p>
   </p>
 </p>
 </br>
