@@ -19,7 +19,7 @@
         <a href="https://learn.microsoft.com/en-us/users/wagnerbolfe/credentials/881d0590cef12838" target="_blank" rel="noreferrer"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Microsoft Certified: Azure Developer Associate" width="100" height="100"/></a>
       </td>
       <td align="center">
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/79808213424f4ff880254e79e9ea4846" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/ff52a038-c61e-4088-b434-2e98ef546896/image.png" alt="MongoDB Certified Associate Developer" width="110" height="110"/></a>
+        <a href="https://www.credly.com/badges/b043eaba-e1ac-4a0a-9ec0-910a725fecea" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/680x680/images/ff52a038-c61e-4088-b434-2e98ef546896/image.png" alt="MongoDB Certified Associate Developer" width="110" height="110"/></a>
       </td>
       <td align="center">
         <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/79808213424f4ff880254e79e9ea4846" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100"/></a>
